@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Patrick Hansen"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,38 @@ redirect_from:
   - /about.html
 ---
 
+I am a machine learning and computer systems researcher. My research interests focus on the co-optimization of deep learning models and their target hardware platforms.
+
+I finished my undergrad degree in Electrical Engineering and Computer Science in 2018. There I conducted research into low power neural network inference with the [Architecture, Circuits, and Compilers](https://vlsiarch.eecs.harvard.edu/) group. I was a Teaching Fellow for CS141: Computing Architecture.
+
+Since graduating, I have been working as a research engineer for [Arm](https://www.arm.com/) in the Machine Learning and Perception group. Here, my research has focused on developing optimization techniques for computer vision models and investigating optimizations to their target platforms. Projects I have worked on at Arm range from utilizing neural architecture search to learn the structures for state of the art models, to developing novel architectures for hardware accelerators.
+
+
+<!-- ----
+I'm a CS PhD student at UC San Diego. I research the security and performance of complex systems. My advisor is Alex Snoeren and I'm a member of the SysNet Group.
+
+I finished my undergrad degree in CS at Harvard in 2020. There I conducted research on serverless computing and browser security. I was a Teaching Fellow for the Systems Programming and Machine Organization class, and led the Harvard Political Review's tech team for two years.
+
+Off campus, I served on the City of Cambridge's Open Data Review Board. I've also been a Research Intern at Google and a Software Engineering intern at Slack and Google.
+
+You can contact me at aukani [at] ucsd (dot) edu.
+----
+
+I am a computer systems and architecture researcher. My research interests focus on improving the performance, efficiency, and environmental sustainability of computer systems and architecture by co-designing solutions across the computing stack.
+
+My research optimizes the at-scale deployment of deep learning based personalized recommendation in order to enable next generation recommendation systems. Personalized recommendation is central to many Internet services we use on a daily basis including social media, search, video and movie streaming, and e-commerce platforms. Our work demonstrates that recommendation not only accounts for a majority of all AI cycles in data centers but also poses unique challenges to efficient execution that limits new modeling capabilities. Tackling these challenges we outline an in-depth analysis and characterization of the architectural implications of recommendation models across production data centers. Building on the characterization, we accelerate recommendation systems with  novel near memory processing systems, inference schedulers, and data center-scale specialized hardware for a wide set of neural recommendation models. Some of these solutions have been deployed in production data centers, demonstrating performance improvements at-scale. To enable future work into datacenter scale recommendation inference, we have open-sourced the proposed infrastructure, DeepRecSys and host the Personalized Recommendation Systems and Algorithms (PeRSonAl) workshop.
+
+Given the growing demands for AI, emerging applications, and computing overall, I am also passionate about investigated new techniques to enable environmentally sustainable computing. We show that sustainable mobile and data-center scale computing requires reducing both operational energy consumption and embodied carbon from hardware manufacturing (Chasing Carbon). From a computing perspective this means we must rethink research and development across the computing stack (applications, systems, hardware, and devices) in order to build sustainable computer systems of the future. To this end, we host the Computing Landscapes for Environmental Accountability and Responsibility (CLEAR) workshop at ISCA 2021.
+
+My past work has also included designing hardware accelerators for sparse RNNs, building and integrating a DNN accelerator into mobile SoC taped-out in 16nm, lossy compression techniques for DNNs, and quantifying the fault tolerance of DNNs.
+
+I am an active steering committee member of the Computer Architecture Student Association, where I hope to build a more diverse and inclusive student community in computer architecture.
+
+My work has received an IEEE MICRO Top Picks Honorable Mention (2020), as well as best paper nominations at the Parallel Architectures and Compilation Techniques (PACT 2019) and Design Automation Conference (DAC 2018).
+
+I am a PhD student studying Computer Science in the Harvard Architecture, Circuits and Compilers group at Harvard University working with Professor David Brooks and Professor Gu-Yeon Wei. I have also been fortunate to collaborate with Facebook AI Research's (FAIR) SysML team where I am advised by Dr. Carole-Jean Wu. -->
+
+<!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,4 +79,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
